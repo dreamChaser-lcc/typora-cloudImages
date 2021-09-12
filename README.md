@@ -1,5 +1,6 @@
 # typora-cloudImages
 typora储存图片
+
 若访问不了图片，或显示失败图片，替换国内dns源
 - 进入 IPAddress.com
 - 输入 raw.githubusercontent.com 查询真实的IP地址
