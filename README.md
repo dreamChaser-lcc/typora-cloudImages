@@ -17,3 +17,14 @@ typora储存的图片
 $ ipconfig /flushdns
 ```
 
+
+# jsdelivr 加速访问静态资源
+```
+https://cdn.jsdelivr.net/gh/用户名称/仓库名称/目录
+```
+例如：
+```
+// 加速访问图片
+https://cdn.jsdelivr.net/gh/dreamChaser-lcc/typora-cloudImages/typora-icon.png
+
+```
