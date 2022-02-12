@@ -27,4 +27,7 @@ https://cdn.jsdelivr.net/gh/用户名称/仓库名称/目录
 // 加速访问图片
 https://cdn.jsdelivr.net/gh/dreamChaser-lcc/typora-cloudImages/typora-icon.png
 
+
+// 加速访问目录 末尾一定要加/ 否则无效
+https://cdn.jsdelivr.net/gh/dreamChaser-lcc/typora-cloudImages/
 ```
